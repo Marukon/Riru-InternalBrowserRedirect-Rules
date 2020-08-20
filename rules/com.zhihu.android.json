@@ -6,8 +6,8 @@
             "tag": "default",
             "url-source": "intent://data/zh_url/target",
             "url-filter": {
-                "ignore": "",
-                "force": ""
+                "ignore": ".*zhihu\\.com.*",
+                "force": ".*link\\.zhihu\\.com.*"
             }
         }
     ]
