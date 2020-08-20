@@ -1,0 +1,14 @@
+{
+    "tag": "Weico",
+    "authors": "LoveSy",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/url",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}
