@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/rawUrl",
       "url-filter": {
-        "ignore": ".*qq\\.com.*|.*xiaoeknow\\.com.*",
+        "ignore": ".*qq\\.com.*|.*xiaoeknow\\.com.*|.*chinatowercom\\.cn.*",
         "force": ""
       }
     },
@@ -14,7 +14,7 @@
       "tag": "QRScanner",
       "url-source": "intent://extra/rawUrl/url",
       "url-filter": {
-        "ignore": ".*qq\\.com.*|.*xiaoeknow\\.com.*",
+        "ignore": ".*qq\\.com.*|.*xiaoeknow\\.com.*|.*chinatowercom\\.cn.*",
         "force": ""
       }
     }
